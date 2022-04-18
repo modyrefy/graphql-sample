@@ -1,0 +1,58 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZJ2i5MfXjC1I4M/egL0mqaLta/2oYFLzzFb6ZKSJkuMzJMnPhI1mYwL3SmofxIFJsaWtWsyCqWle5kY4qtAISQ==",
+  "success": true,
+  "projectFilePath": "E:\\sample-projects\\.net\\graphql-sample\\test_graphqlApi\\test_graphqlApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrefay\\.nuget\\packages\\graphql\\5.1.1\\graphql.5.1.1.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\graphql-parser\\8.0.0\\graphql-parser.8.0.0.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\graphql.dataloader\\4.6.1\\graphql.dataloader.4.6.1.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\graphql.microsoftdi\\5.1.1\\graphql.microsoftdi.5.1.1.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\graphql.newtonsoftjson\\5.1.1\\graphql.newtonsoftjson.5.1.1.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\graphql.server.core\\5.2.1\\graphql.server.core.5.2.1.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\graphql.server.transports.aspnetcore\\5.2.1\\graphql.server.transports.aspnetcore.5.2.1.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\graphql.server.transports.aspnetcore.systemtextjson\\5.2.1\\graphql.server.transports.aspnetcore.systemtextjson.5.2.1.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\graphql.server.transports.subscriptions.abstractions\\5.2.1\\graphql.server.transports.subscriptions.abstractions.5.2.1.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\graphql.server.ui.playground\\5.2.1\\graphql.server.ui.playground.5.2.1.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\graphql.systemreactive\\4.6.1\\graphql.systemreactive.4.6.1.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\graphql.systemtextjson\\5.1.1\\graphql.systemtextjson.5.1.1.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.0\\microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.0\\microsoft.extensions.configuration.binder.3.1.0.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.0\\microsoft.extensions.dependencyinjection.3.1.0.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.0\\microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\microsoft.extensions.logging\\3.1.0\\microsoft.extensions.logging.3.1.0.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.0\\microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\microsoft.extensions.options\\3.1.0\\microsoft.extensions.options.3.1.0.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\system.reactive\\4.4.1\\system.reactive.4.4.1.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\system.reactive.core\\4.4.1\\system.reactive.core.4.4.1.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\system.reactive.linq\\4.4.1\\system.reactive.linq.4.4.1.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\system.threading.tasks.dataflow\\5.0.0\\system.threading.tasks.dataflow.5.0.0.nupkg.sha512",
+    "C:\\Users\\mrefay\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: GraphQL.Server.Transports.Subscriptions.Abstractions 5.2.1 requires GraphQL.NewtonsoftJson (>= 4.6.1 && < 5.0.0) but version GraphQL.NewtonsoftJson 5.1.1 was resolved.",
+      "libraryId": "GraphQL.NewtonsoftJson",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
